@@ -22,7 +22,8 @@
             </ul>
         </nav>
     </header>
- <main class="container">
+
+    <main class="container">
         <h1 class="visually-hidden">Welcome</h1>
         <section class="section-wallpaper">
             <h2 class="visually-hidden">Wallpaper</h2>
@@ -124,3 +125,34 @@
         </section>
         <!--Forms here-->
     </main>
+    
+    <footer class="main-footer">
+        <b>#VISITSEDONA</b>
+
+        <section class="social-networks">
+            <ul class="social-list">
+                <li class="social-item">
+                    <a href="#">
+                        <img src="#" alt="Twitter">
+                    </a>
+                </li>
+                <li class="social-item">
+                    <a href="#">
+                        <img src="#" alt="Facebook">
+                    </a>
+                </li>
+                <li class="social-item">
+                    <a href="#">
+                        <img src="#" alt="YouTube">
+                    </a>
+                </li>
+            </ul>
+        </section>
+        <section class="website by">
+            <a href="#">
+                <img src="#" alt="Logo">
+            </a>
+        </section>
+    </footer>
+</body>
+</html>
